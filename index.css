@@ -6,7 +6,7 @@ body, html {
 .bgimg {
     background-position: center;
     background-size: cover;
-    background-image: url("sky2.jpg");
+    background-image: url("sky2.JPG");
     min-height: 95%;
     margin-top: 30px;
 /*    border: solid 50px black;*/
